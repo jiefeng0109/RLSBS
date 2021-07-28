@@ -1,0 +1,2 @@
+Namespace(LAMBDA_COST=0.1, LR_A=0.001, LR_C=0.001, MAX_GLOBAL_EP=5000, N_WORKERS=1, REWARD_RATE=100, UPDATE_GLOBAL_ITER=200, data_name='Indian_pines', eval_net_path='./checkpoint/Indian_pines.t7', num_band_seclection=200, out_put_path='./output/Indian_pines', patch_size=31)
+training time: 565
